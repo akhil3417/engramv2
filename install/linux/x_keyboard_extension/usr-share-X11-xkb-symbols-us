@@ -26,6 +26,6 @@ xkb_symbols "engram"
 	key <AC10> { [        comma,   semicolon ] }; // ,;
 	key <AC11> { [       period,       colon ] }; // .:
 
-	key <AB05> { [        minus,  underscore ] }; // -_
-	key <AB06> { [     question,      exclam ] }; // ?!
+	key <AB08> { [        minus,  underscore ] }; // -_
+	key <AB09> { [     question,      exclam ] }; // ?!
 };
